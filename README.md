@@ -1,4 +1,5 @@
 # miTesis
-Mi Tésis de Grado de Ingeniería de Sistemas 
-este es mi proyecto de grado para optar al titulo como ingeniero de sistemas de la univerisdad cesmag en la cidad de San Juan de Pasto en Colombia
-en el cual propongo una aplicacion web como gestora y administracion de datos para una empresa de servicio tecnico para motocicletas
+Mi Tesis de Grado de Ingeniería de Sistemas 
+este es mi proyecto de grado para optar al título como ingeniero de sistemas de la universidad CESMAG en la ciudad de San Juan de Pasto en Colombia
+en el cual propongo una aplicación web como gestora y administración de datos para una empresa de servicio técnico para motocicletas
+
